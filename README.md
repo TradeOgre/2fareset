@@ -1,3 +1,4 @@
+#How to reset 2FA after losing the key on TradeOgre.com (TradeOgreExchange@protonmail.com)
 Losing access to your TradeOgre account can happen when you lose your 2FA keys. 2FA keys are uniquely generated and are made stop identity theft and hackers from gaining access to your TradeOgre balance.
 
 When you lose your TradeOgre 2FA keys, you must contact us directly. We have a 1 month policy in resetting 2FA keys from the last login before a fee is incurred.
